@@ -1,4 +1,5 @@
 /*
+
 Main process for creating several threads and communicating & syncronizing between threads
 Command to exeute this program: gcc main.c -lpthread
 Threads: 
